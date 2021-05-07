@@ -1,0 +1,27 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  margin-bottom: 70px;
+}
+.orange-bg {
+  background-color: #fceae8;
+}
+.price {
+  color: #ff136f;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f);
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+#logo-shape {
+  width: 18%;
+  height: 40%;
+}
